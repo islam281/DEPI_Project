@@ -1,0 +1,11 @@
+{
+  "default_book": "salah_al_din",
+  "books": {
+    "salah_al_din": {
+      "title": "سيرة صلاح الدين الأيوبي",
+      "pdf": "books/salah_al_din/book.pdf",
+      "json": "books/salah_al_din/extracted.json",
+      "text_mode": "provided_json"
+    }
+  }
+}
