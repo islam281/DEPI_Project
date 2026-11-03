@@ -1,0 +1,11 @@
+langchain-core
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+langchain-groq
+sentence-transformers
+rank-bm25
+python-dotenv
+pdfplumber
+pytest
+nbformat

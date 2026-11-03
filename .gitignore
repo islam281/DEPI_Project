@@ -1,0 +1,7 @@
+.env
+__pycache__/
+.pytest_cache/
+*.py[cod]
+models/
+indexes/
+.ipynb_checkpoints/
